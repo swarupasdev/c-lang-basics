@@ -10,4 +10,7 @@ All related to c
 - value that was present in those 2 byte is known as garbage value.
 - eg: ```x = 5;```
 - the value which is assigned to the variable for the 1st time is called initialization
-- declaration and define is 
+- declaration is variable introduces a variables name and type to the compiler without allocating the memory .
+- definition actually creates the variable and reserves memory space for it 
+
+### datatype 
