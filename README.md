@@ -14,3 +14,24 @@ All related to c
 - definition actually creates the variable and reserves memory space for it 
 
 ### datatype 
+- types of data which user wants to store in memory 
+
+- _______________________________
+            datatype
+                |
+                |-predefined/primitive/builtin
+                |               |
+                |               |-int
+                |               |-float
+                |               |-double
+                |               |-char
+                |               |-void
+                |
+                |-user defined
+                       |-structure
+                       |-union
+                       |-enum
+
+- int: it is used to define variables which can store integer values
+    ex: ```int x;```                
+- float:      
